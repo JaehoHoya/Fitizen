@@ -63,7 +63,7 @@
 ## 4. 개발 환경 및 기술 스택
 
 ### 개발 환경
-<img width="970" alt="스크린샷 2024-12-18 오전 11 11 23" src="https://github.com/user-attachments/assets/a54208b3-1d75-4557-8b62-89c18b88e6a7" />
+<img width="720" height="514" alt="스크린샷_2026-01-01_오전_1 31 50 (1)" src="https://github.com/user-attachments/assets/542e6212-5a99-433d-8980-6875fa985fa0" />
 
 ### 기술 스택
 <table>
